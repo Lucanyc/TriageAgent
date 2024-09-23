@@ -25,7 +25,9 @@ https://drive.google.com/drive/folders/1vSgAOwaj-T7YNmQ3B_JP9RTX9c-5im0P
 
 Implementations
 Input your own openai api key in api_utils.py.
+```
 sh inference.sh
+```
 
 
 Cite Us
