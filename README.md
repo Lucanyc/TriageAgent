@@ -9,11 +9,13 @@ We propose a dynamic multi-agent collaboration framework. The framework illustra
 [Main-structure-1.pdf](https://github.com/user-attachments/files/17099495/Main-structure-1.pdf)
 
 
-###Requirements
-
+Requirements
 Install all required python dependencies:
 
+```
 pip install -r requirements.txt
+```
+
 
 Data
 We release our clinical triage dataset collected from the Emergency Severity Index, Version 4: Implementation Handbook. Please check our Google Drive: 
