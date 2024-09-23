@@ -10,9 +10,6 @@ We propose a dynamic multi-agent collaboration framework. The framework illustra
 ![Collaboration Framework](https://github.com/user-attachments/files/17099495/Main-structure-1.pdf)
 
 
-[Main-structure-1.pdf](https://github.com/user-attachments/files/17099495/Main-structure-1.pdf)
-
-
 Requirements
 Install all required python dependencies:
 
