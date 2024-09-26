@@ -33,3 +33,13 @@ sh inference.sh
 
 Cite Us
 If you find this project useful, please cite the following paper:
+
+@inproceedings{
+anonymous2024triageagent,
+title={TriageAgent: Towards Better Multi-Agents Collaborations for  Large Language Model-Based Clinical Triage},
+author={Anonymous},
+booktitle={Submitted to ACL Rolling Review - June 2024},
+year={2024},
+url={https://openreview.net/forum?id=R5YLhou5PX},
+note={under review}
+}
