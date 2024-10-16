@@ -1,6 +1,6 @@
-# TriageAgent
+# TriageAgent: Towards Better Multi-Agents Collaborations for Large Language Model-Based Clinical Triage
 
-[EMNLP 2024 Findings] TriageAgent: Towards Better Multi-Agents Collaboration for Large Language Model-Based Clinical Triage
+[EMNLP 2024 Findings] Source code and data for EMNLP 2024 Findings paperTriageAgent: Towards Better Multi-Agents Collaboration for Large Language Model-Based Clinical Triage
 
 📄 [Paper](https://openreview.net/pdf?id=R5YLhou5PX)
 
